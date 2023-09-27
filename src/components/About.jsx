@@ -14,23 +14,13 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        In my  front-end development journey, I've built a solid foundation in HTML, CSS, and JavaScript. I've learned how to create visually appealing and interactive web interfaces, ensuring responsiveness across different devices. Additionally, I've delved into frameworks like React and embraced version control with Git and GitHub for collaborative coding. 
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+        Accessibility and performance optimization have become integral to my work, and I've gained familiarity with tools like Webpack and Gulp for streamlining development workflows. With a strong foundation and a growing skill set, I'm eager to continue my journey in front-end development, tackling more complex projects and contributing to user-friendly web experiences.
         </p>
       </div>
     </div>
