@@ -6,6 +6,7 @@ import reactParallax from "../assets/portfolio/reactParallax.jpg";
 import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
 
+
 const Portfolio = () => {
   const portfolios = [
     {
@@ -58,16 +59,17 @@ const Portfolio = () => {
                 className="rounded-md duration-200 hover:scale-105"
               />
               <div className="flex items-center justify-center">
-               <a href={demolink} target="_blank">
+               <link rel="stylesheet" href={demolink} to="/target">
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
                   Demo
                 </button>
-                </a>
-               <a href={codelink} target="_blank">
+                </link>
+                <link rel="stylesheet" href={codelink} to="/target">
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
                   Code
                 </button>
-                </a>
+                </link>
+                  
 
               </div>
             </div>
