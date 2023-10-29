@@ -2,7 +2,7 @@ import React from "react";
 import ecompic from "../assets/portfolio/ecom.jpg";
 import installNode from "../assets/portfolio/installNode.jpg";
 import navbar from "../assets/portfolio/navbar.jpg";
-import reactParallax from "../assets/portfolio/reactParallax.jpg";
+import reactParallax from "../assets/portfolio/todo.jpeg";
 import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
 // import { Link } from "react-router-dom"
@@ -18,6 +18,8 @@ const Portfolio = () => {
     {
       id: 2,
       src: reactParallax,
+      codelink: "https://github.com/shri1211/My-Todo",
+      demolink: "https://my-todo-nu-six.vercel.app/",
     },
     {
       id: 3,
