@@ -1,11 +1,10 @@
 import React from "react";
 import ecompic from "../assets/portfolio/ecom.jpg";
 import installNode from "../assets/portfolio/installNode.jpg";
-import navbar from "../assets/portfolio/navbar.jpg";
+import calculator from "../assets/portfolio/calculator.jpeg";
 import reactParallax from "../assets/portfolio/todo.jpeg";
 import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
-// import { Link } from "react-router-dom"
 
 const Portfolio = () => {
   const portfolios = [
@@ -23,7 +22,7 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      src: navbar,
+      src: calculator,
       codelink: "https://github.com/shri1211/calculator",
       demolink: "https://shri1211.github.io/calculator/",
 
