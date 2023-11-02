@@ -24,6 +24,9 @@ const Portfolio = () => {
     {
       id: 3,
       src: navbar,
+      codelink: "https://github.com/shri1211/calculator",
+      demolink: "https://shri1211.github.io/calculator/",
+
     },
     {
       id: 4,
