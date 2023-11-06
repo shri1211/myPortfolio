@@ -14,13 +14,13 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-        In my  front-end development journey, I've built a solid foundation in HTML, CSS, and JavaScript. I've learned how to create visually appealing and interactive web interfaces, ensuring responsiveness across different devices. Additionally, I've delved into frameworks like React and embraced version control with Git and GitHub for collaborative coding. 
+          In my  front-end development journey, I've built a solid foundation in HTML, CSS, and JavaScript. I've learned how to create visually appealing and interactive web interfaces, ensuring responsiveness across different devices. Additionally, I've delved into frameworks like React and embraced version control with Git and GitHub for collaborative coding.
         </p>
 
         <br />
 
         <p className="text-xl">
-        Accessibility and performance optimization have become integral to my work, and I've gained familiarity with tools like Webpack and Gulp for streamlining development workflows. With a strong foundation and a growing skill set, I'm eager to continue my journey in front-end development, tackling more complex projects and contributing to user-friendly web experiences.
+          Accessibility and performance optimization have become integral to my work, and I've gained familiarity with tools like Webpack and Gulp for streamlining development workflows. With a strong foundation and a growing skill set, I'm eager to continue my journey in front-end development, tackling more complex projects and contributing to user-friendly web experiences.
         </p>
       </div>
     </div>

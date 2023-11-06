@@ -12,7 +12,7 @@ const Portfolio = () => {
       id: 1,
       src: ecompic,
       codelink: "https://github.com/shri1211/myEcommerce",
-      demolink: "https://my-ecommerce-u19v-m8zohwr4g-shreenidhis-projects.vercel.app/",
+      demolink: "https://my-ecommerce-70ejxdtin-shreenidhis-projects.vercel.app/",
     },
     {
       id: 2,
@@ -22,9 +22,10 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      src: calculator,
+      src: calculator,          
       codelink: "https://github.com/shri1211/calculator",
       demolink: "https://shri1211.github.io/calculator/",
+      
 
     },
     {
