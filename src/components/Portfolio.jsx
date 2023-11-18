@@ -31,6 +31,8 @@ const Portfolio = () => {
     {
       id: 4,
       src: reactSmooth,
+      codelink: "https://github.com/shri1211/imageSearch_app",
+      demolink: "https://shri1211.github.io/imageSearch_app/",
     },
     {
       id: 5,
